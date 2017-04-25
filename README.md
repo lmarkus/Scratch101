@@ -45,7 +45,8 @@ Number Guessing Game Part 2 - The computer guesses your number
 ### Objectives
 * Implement a binary search algorithm
 * Nested operations with variables
-* Other types of loops (While loops vs For Loops) 
+* Other types of loops (While loops vs For Loops)
+* String Concatenation
 * Stop conditions for loops 
 
 

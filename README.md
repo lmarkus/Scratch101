@@ -6,7 +6,7 @@ The focus will be on creating simple games, where each one either introduces new
 
 One very important tool that will be taught is the use of Flow Diagrams.  We don't want students jumping straight into solving the problems / creating the games. It's *essential* that we teach them to plan ahead.  All class projects should first be discussed at high level, to ensure understanding, imagine possible solutions and approaches. This discussion activity should be followed by creating a flow diagram for the agreed on solution (This will serve as a roadmap for the students to then implement their solution on Scratch). Only then should students move on to actually writing the program.
 
-One of the beautiful things about Scratch, is that due to it's interface, a flow diagram will practically have a 1:1 mapping to the final program.
+One of the beautiful things about Scratch, is that due to its interface, a flow diagram will practically have a 1:1 mapping to the final program.
 
 At the end of this course, students should be able to approach a new problem in a structured way, and apply engineering techniques for writing an algorithm / well structured program to solve it.  All students should feel comfortable moving up to a whiteboard and explaining their thought process.
 
@@ -43,6 +43,8 @@ Special note: Class 2 should begin with and explanation of Flow Diagrams.
 Number Guessing Game Part 2 - The computer guesses your number
 
 ### Objectives
+* Implement a binary search algorithm
+* Nested operations with variables
 * Other types of loops (While loops vs For Loops) 
 * Stop conditions for loops 
 

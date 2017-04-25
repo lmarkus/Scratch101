@@ -23,19 +23,29 @@ Introduction to computers / programming
 
 
 ## Class 2
-Number Guessing Game
+Number Guessing Game Part 1 - You guess the computer's number [Link](https://scratch.mit.edu/projects/157331086/)
 
 Special note: Class 2 should begin with and explanation of Flow Diagrams. 
 
-### Objectives Part 1 - You guess the computer's number
+### Objectives 
 * Input / Output
 * Variables
 * Random Number generation
 * If - else statements.
+* Forever Loops
+
+### Variations
+* Limit the number of guesses a player has
 
 
-Class #3
-Number Guessing Game - The computer guesses your number
+
+## Class 3
+Number Guessing Game Part 2 - The computer guesses your number
+
+### Objectives
+* Other types of loops (While loops vs For Loops) 
+* Stop conditions for loops 
+
 
 
 Class #4

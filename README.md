@@ -40,7 +40,14 @@ Special note: Class 2 should begin with and explanation of Flow Diagrams.
 
 
 ## Class 3
-Number Guessing Game Part 2 - The computer guesses your number
+Number Guessing Game Part 2 - The computer guesses your number [Link](https://scratch.mit.edu/projects/157334625/)
+
+Special notes: Heads up, instructors. This is a tough one, but a real eye opener for students. When you talk about the problem description, and try to do a high level solution, you'll find that binary search is a very intuitive way to solve the problem, yet it will be hard for the students to translate that intuition into actual, bug-free code.  
+
+You should expect to explain the principle behind binary search quite a few times.
+Common pitfalls will include number rounding, and getting the search range right when you have to discard the lower half.
+
+Spend as much time as you need making sure all the studens have drawn a good flow diagram as a foundation.
 
 ### Objectives
 * Implement a binary search algorithm

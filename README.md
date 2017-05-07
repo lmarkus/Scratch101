@@ -25,7 +25,7 @@ Introduction to computers / programming
 ## Class 2
 Number Guessing Game Part 1 - You guess the computer's number [Link](https://scratch.mit.edu/projects/157331086/)
 
-Special note: Class 2 should begin with and explanation of Flow Diagrams. 
+Special note: Class 2 should begin with an explanation of Flow Diagrams. 
 
 ### Objectives 
 * Input / Output
@@ -58,8 +58,27 @@ Spend as much time as you need making sure all the studens have drawn a good flo
 
 
 
-Class #4
-Hangman
+## Class 4
+Hangman - [Link](https://scratch.mit.edu/projects/159401351/)
+
+Notes: Things are getting interesting now.  Hangman is another game that's simple to understand, but requires quite a few steps to implement with Scratch's simple elements. This class introduces arrays, so you should spen some time explaining the concept. ( **Side Note:** Scracth does not use zero-indexed arrays.  That's right. The first element of an array is... **1**)
+
+This class is a good place to start introducing functions ("custom blocks" in Scratch), as a means of grouping repetitive stuff. There's going to be a lot of new things thrown at students in this class, so be liberal with hints and help.
+
+Start the class with an actual game of hangman on the whiteboard, to refresh the concepts for students.
+
+In scratch the easiest way to "draw" the hangman, is by adding additional cosumes to the base cat sprite. (See example code).
+You should have ~10 costumes, where each costume corresponds to one try (See the example project). Every wrong guess advances to the next costume.
+
+Don't forget to have students play each others game!
+
+### Objectives
+* Lists
+* Manipulation of text strings
+* Adding/removing elements in a list
+* Iterating through a list.
+* Sprite manipulation (Kids get to draw their own hangman sprites)
+* Custom Blocks (Functions)
 
 
 Class #5

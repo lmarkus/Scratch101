@@ -81,11 +81,11 @@ Don't forget to have students play each others game!
 * Custom Blocks (Functions)
 
 
-Class #5
+## Class 5
 Interaction with camera
 
 
-Class 6
+## Class 6
 Pong - [Link](https://scratch.mit.edu/projects/159744887/)  
 
 Special Activity: Talk about the history of video games, but do it backwards. Start with todays modern games, and work your way down to Atari / Pong.  Use plenty of visual examples.	

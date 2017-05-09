@@ -85,14 +85,26 @@ Class #5
 Interaction with camera
 
 
-Class #6
-Pong  
+Class 6
+Pong - [Link](https://scratch.mit.edu/projects/159744887/)  
 
-Special Note: Talk about the history of video games, but do it backwards. Start with todays modern games, and work your way down to Atari / Pong.  Use plenty of visual examples.	
+Special Activity: Talk about the history of video games, but do it backwards. Start with todays modern games, and work your way down to Atari / Pong.  Use plenty of visual examples.	
+
+Notes:
+Two concepts will be introduced in this class: 
+* 2-Dimension coordinates: The best way I've found to do this is to simply boil it down to the fact that **X** means left/right, and **Y** means up/down.  (You'll also have to deal with negative numbers, but kids should already have this concept floating around in their brains via substraction). Scratch uses the center of the working area as (0,0), so when designing your programs it helps to draw x/y axes on the whiteboard. The drawing area is a roughly 480x360 rectangle (Meaning that it goes from [-240,-180] (Bottom-Left) to (240,180) (Top-Right).  Drawing these boundaries on the board is super helpful for students. 
+
+* Events / : The paddles will be controlled via keyboard, so students will start scripting individual sprites.
 
 ### Objectives
+* Reinforce drawing your own sprites (For the paddles)
 * Variables for keeping score
-* Keyboard control for games
+* Variables as "variable data", allowing controls of in-game elements (Paddle speed, ball speed).  This is an excellent opportunity to lay down some good programming practices. Let students manually assign a value to each paddle motion (4 total), and then, ask them to change it. Once they've changed all four, re-introduce the use of variables, but this time, not just as  data stores.
+* Keyboard control for games.
+* Scratch motion control (Bounce on edge, actions then two colors are touching, etc)
+* Thinking in 2 dimensions. (Position, speed, direction, etc)
+
+
 (Fun activity: Pong Tournament with the best project in the class)
 
 

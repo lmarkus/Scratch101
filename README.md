@@ -108,9 +108,25 @@ Two concepts will be introduced in this class:
 (Fun activity: Pong Tournament with the best project in the class)
 
 
-Class #7
-Cat & Mouse Game (Artificial Intelligence)
+## Class 7
+Cat & Mouse Game - [Link](https://scratch.mit.edu/projects/160739550/#player)
+Create a simple game where you control a cat, and the objective is catching a mouse, as many times as possible within a given timeframe (eg: 1 minute)
+The mouse is controlled by the computer. Students should come up with a strategy to make the mouse hard to catch.
 
+A player wins the game by obtaining the highest score. However, a **programmer** wins the best program, by making his mouse the one hardest to catch. (This gives students an incentive to think things through, and try different strategies.)
+
+Notes:
+This game is simple, so we'll use this opportunity to introduce event broadcasting to coordinate sprites.  Broadcasting should be use to reset the sprites to starting conditions when the mouse is caught.
+
+Extra notes: Reduce sprite sizes by about 50% to make better use of the stage area
+
+### Objectives:
+* Working with motion (Moving various objects around the design area)
+* Working with costume changes ( Most scratch sprites have two costumes which can be used to give the appearance of motion)
+* Working with object sensing (Edge bouncing, sprite proximity, sprites touching)
+* Work with Scratch Timers.
+* Using event broadcasting for complex sprite coordination. (eg: Resetting a game.)
+* Planning strategies, anticipating the opponents move. (Explain how this is a very rudimentary form of artificial intelligence)
 
 Class #8
 Flappy Bat

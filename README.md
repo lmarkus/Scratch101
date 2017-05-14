@@ -129,7 +129,7 @@ Extra notes: Reduce sprite sizes by about 50% to make better use of the stage ar
 * Planning strategies, anticipating the opponents move. (Explain how this is a very rudimentary form of artificial intelligence)
 
 Class #8
-Flappy Bat
+Flappy Bat - [Link](https://scratch.mit.edu/projects/160841634/)
 
 
 Class #9

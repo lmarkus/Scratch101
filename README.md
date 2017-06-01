@@ -107,8 +107,16 @@ Two concepts will be introduced in this class:
 
 (Fun activity: Pong Tournament with the best project in the class)
 
+## Class #7
+Flappy Bat - [Link](https://scratch.mit.edu/projects/160841634/)
 
-## Class 7
+Create a clone of the popular "Flappy Bird" game. This game will focus on polish.  Even though it's a relatively simple game, Students can be provided ample time to tweak their game for optimal play (Gravity, speed, control sensitivity), as well as introducing a few new concepts from slack
+
+### Objectives:
+* Fine tuning several variables to improve the game, and set the difficulty level.
+* Working with cloned objects in Scratch
+
+## Class 8
 Cat & Mouse Game - [Link](https://scratch.mit.edu/projects/160739550/#player)
 Create a simple game where you control a cat, and the objective is catching a mouse, as many times as possible within a given timeframe (eg: 1 minute)
 The mouse is controlled by the computer. Students should come up with a strategy to make the mouse hard to catch.
@@ -128,19 +136,36 @@ Extra notes: Reduce sprite sizes by about 50% to make better use of the stage ar
 * Using event broadcasting for complex sprite coordination. (eg: Resetting a game.)
 * Planning strategies, anticipating the opponents move. (Explain how this is a very rudimentary form of artificial intelligence)
 
-Class #8
-Flappy Bat - [Link](https://scratch.mit.edu/projects/160841634/)
 
-
-Class #9
-
-
-Class #10
+## Class 9
 Angry Birds
+We'll make a simple clone of Angry Birds. This will probably the most complex project that the students will have to tackle in this class. It's an excellent opportunity to reinforce math concepts learned such as movement in two dimensions, and introduce some new ones (to some) like trigonometry, and force vectoring.
 
+Your job as a teacher is to boil down the concepts so that your entire audience can understand them. However when it comes to programming, you'll need to feed them some answers for some of the more complex math formulas (eg: SIN, COS to figure our trajectory of the bird, etc).
 
-Class #11
+This project will typically spread out across two classes.
+
+At this point, students should have all the basic programming skills needed, so no new scratch concepts will be learned here. This class is all about putting all the learnings to use into one large scale project.
+
+### Objectives
+
+* Reinforce all past learnings.
+* Force vectors (Yes, really!)
+* Angles
+
+## Class 10
 Angry Birds (Cont.)
 
-Class #12
-Presentations
+
+## Class #11
+Presentation Skills for children
+Students should pick their favorite project to present (Don't make the presentation optional, otherwise they will all try to get out of it :) ).
+There will only be two objectives for this class. The first is teaching kids how to effectively present. The focus should be both on the project and the skills that they learned along the way.  Make sure that they have several practice runs, so that they feel comfortabl efor their presentations.
+
+The second objective it to do a retrospective on the learnings from the code camp.  Go over the individual projects, and discuss what the students found interesting.  Be sure to get feedback on yourself as a teacher.  These students are usually brutally honest. Ask what worked, what didn't work, and what they would do differently.
+
+A nice closing touch, is to talk about your own journey and observations as a teacher, on the things that they learned, and the breaktrhoughs you've seen the class have.
+
+## Class #12
+Presentations.
+Sit back, relax, and cheer for your team!

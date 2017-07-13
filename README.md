@@ -82,7 +82,27 @@ Don't forget to have students play each others game!
 
 
 ## Class 5
-Interaction with camera
+Hungry Crabs - [Link](https://scratch.mit.edu/projects/168728586/)
+
+Crabs are coming at you from all sides! Slap the crabs to keep them away from the apple.  The more crabs you slap, the faster they get!
+You can make the game more fun (and difficult) by having students stand farther away from the computer.
+
+This class introduces one of Scratche's must fun elements. The webcam.
+Scratch makes it super simple to have video captured from the webcam interact with sprites. If you've ever played with a Microsoft Kinnect, you'll be immediately familiar with this concept. (And the students will likely be, as well)
+
+### Objectives:
+
+* Using Video - I highly recommend that instructors go through the documentation for the video blocks in scratch: https://wiki.scratch.mit.edu/wiki/Video_()_on_()_(block)
+* Working with Clones: Students will be introduced to clones, and will have to learn how to program a sprite for multiple scenarios. (eg: How should a clone behave depending on its starting point)
+* Using levels to automatically adjust the dificulty of a game (This is a basic game mechanic.)
+
+
+#### Things to watch out for:
+The camera works best in a well lit location, preferably against a white (or light) background.
+
+
+#### Fun activity: 
+Tournament! See who can get the highest score.
 
 
 ## Class 6

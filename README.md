@@ -87,7 +87,7 @@ Hungry Crabs - [Link](https://scratch.mit.edu/projects/168728586/)
 Crabs are coming at you from all sides! Slap the crabs to keep them away from the apple.  The more crabs you slap, the faster they get!
 You can make the game more fun (and difficult) by having students stand farther away from the computer.
 
-This class introduces one of Scratche's must fun elements. The webcam.
+This class introduces one of Scratch's must fun elements: The webcam.
 Scratch makes it super simple to have video captured from the webcam interact with sprites. If you've ever played with a Microsoft Kinnect, you'll be immediately familiar with this concept. (And the students will likely be, as well)
 
 ### Objectives:
@@ -158,7 +158,7 @@ Extra notes: Reduce sprite sizes by about 50% to make better use of the stage ar
 
 
 ## Class 9
-Angry Birds
+Angry Birds - [Link](https://scratch.mit.edu/projects/168731089/)
 We'll make a simple clone of Angry Birds. This will probably the most complex project that the students will have to tackle in this class. It's an excellent opportunity to reinforce math concepts learned such as movement in two dimensions, and introduce some new ones (to some) like trigonometry, and force vectoring.
 
 Your job as a teacher is to boil down the concepts so that your entire audience can understand them. However when it comes to programming, you'll need to feed them some answers for some of the more complex math formulas (eg: SIN, COS to figure our trajectory of the bird, etc).
